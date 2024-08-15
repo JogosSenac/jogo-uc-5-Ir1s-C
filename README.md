@@ -1,1 +1,2 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ogQlJNQZ)
+# Corra-ou-Morra
+O jogador é um rato e ele tem o objetivo de chegar na sua toca, um buraco na parede. Porém ele tem que tomar cuidado com o Gato que está tentando come-lo, o jogador tem que escapar ileso com uma certa quantidade de queijos.
